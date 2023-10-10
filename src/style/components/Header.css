@@ -1,0 +1,36 @@
+.header {
+    background-color: #333; /* Header background color */
+    color: white; /* Header text color */
+    padding: 1rem; /* Add some padding */
+    text-align: left;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    margin-right: 85%;
+    /* height: 80vh; */
+    display:grid;
+    position: fixed;
+  }
+  
+  .header h1 {
+    font-size: 2rem; /* Header title font size */
+  }
+  
+  .header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    display: grid;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  .header nav ul li a {
+    color: white; /* Navigation link color */
+    text-decoration: none;
+  }
+  

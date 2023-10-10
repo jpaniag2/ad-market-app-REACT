@@ -1,0 +1,16 @@
+.home {
+    text-align: center;
+    padding: 2rem;
+    display: block;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin-left: 15%;
+  }
+  
+  .home h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
