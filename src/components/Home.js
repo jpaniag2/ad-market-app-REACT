@@ -8,6 +8,7 @@ function Home() {
     <div className="home"> {/* Use the 'home' class for styling */}
       <h2>Dashboard</h2>
       {/* <Dashboard/> */}
+      //this is the new dashboard
       <NewDashboard />
     </div>
   );
