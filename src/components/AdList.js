@@ -55,7 +55,7 @@ function AdList() {
   };
 
   return (
-    <div className="ad-list" style={{margin: '10% 30% 0% 18%'}}>
+    <div className="ad-list">
       <h1 style={{textAlign: 'left'}}>Running Ads</h1>
       <ul>
         {ads.map((ad) => (
